@@ -17,6 +17,7 @@
 - **Visualization**: Uses Matplotlib to provide insight such as
   - Top streamed artists/songs/albums
   - Streaming frequency over time
- 
+
+Data source: https://www.kaggle.com/datasets/thedevastator/streaming-activity-dataset?resource=download
     
 
